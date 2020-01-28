@@ -1,0 +1,9 @@
+C:\Users\dawid.szpilewski\source\repos\PR_Kozly\PR_Kozly\bin\Debug\PR_Kozly.exe.config
+C:\Users\dawid.szpilewski\source\repos\PR_Kozly\PR_Kozly\bin\Debug\PR_Kozly.exe
+C:\Users\dawid.szpilewski\source\repos\PR_Kozly\PR_Kozly\bin\Debug\PR_Kozly.pdb
+C:\Users\dawid.szpilewski\source\repos\PR_Kozly\ObjDir\2019\PR_Kozly\PR_Kozly.csprojAssemblyReference.cache
+C:\Users\dawid.szpilewski\source\repos\PR_Kozly\ObjDir\2019\PR_Kozly\PR_Kozly.Properties.Resources.resources
+C:\Users\dawid.szpilewski\source\repos\PR_Kozly\ObjDir\2019\PR_Kozly\PR_Kozly.csproj.GenerateResource.cache
+C:\Users\dawid.szpilewski\source\repos\PR_Kozly\ObjDir\2019\PR_Kozly\PR_Kozly.exe
+C:\Users\dawid.szpilewski\source\repos\PR_Kozly\ObjDir\2019\PR_Kozly\PR_Kozly.pdb
+C:\Users\dawid.szpilewski\source\repos\PR_Kozly\ObjDir\2019\PR_Kozly\PR_Kozly.Form1.resources
